@@ -1,5 +1,7 @@
 # Python Security Log Analysis
 
+This is the type of learning that i introduced in my early python studying which expanded to more complicated apps later on and very soon gonna dive deeper into ML.
+
 A small data-analysis project showing the same security-log problem solved in two stages:
 
 1. **Core Python** — lists, dictionaries, loops, functions, JSON, file I/O and basic aggregation.
