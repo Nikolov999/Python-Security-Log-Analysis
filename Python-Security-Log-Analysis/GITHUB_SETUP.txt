@@ -1,0 +1,25 @@
+Recommended GitHub repository name:
+Python-Security-Log-Analysis
+
+Suggested description:
+Security log analysis implemented first with core Python, then with Pandas, NumPy and Matplotlib to demonstrate progression into data analysis.
+
+Suggested topics:
+python
+pandas
+numpy
+matplotlib
+data-analysis
+cybersecurity
+jupyter-notebook
+json
+learning-project
+
+If uploading with Git from the project folder:
+
+git init
+git add .
+git commit -m "Initial security log analysis project"
+git branch -M main
+git remote add origin https://github.com/Nikolov999/Python-Security-Log-Analysis.git
+git push -u origin main
